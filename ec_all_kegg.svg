@@ -1,0 +1,2882 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ec_all_kegg.svg"
+   id="svg847"
+   height="1000"
+   width="1920"
+   viewBox="0 0 960 500"
+   version="1.1">
+  <metadata
+     id="metadata853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs851" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg847"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="351.30112"
+     inkscape:cx="960"
+     inkscape:zoom="0.538"
+     showgrid="false"
+     id="namedview849"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="g802"
+     transform="matrix(0.51263293,0,0,0.50508441,472.53644,49.466541)"
+     class="canvas">
+    <g
+       id="g686"
+       class="content">
+      <text
+         id="text6"
+         y="1.3633437"
+         x="573.2746"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan2"
+           x="573.2746"
+           dy="0">Estrogen signaling</tspan><tspan
+           id="tspan4"
+           x="573.2746"
+           dy="14">pathway</tspan></text>
+      <text
+         id="text12"
+         y="-3.0191376"
+         x="648.67322"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan8"
+           x="648.67322"
+           dy="0">Glucagon signaling</tspan><tspan
+           id="tspan10"
+           x="648.67322"
+           dy="14">pathway</tspan></text>
+      <text
+         id="text16"
+         y="-12.166157"
+         x="602.85553"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan14"
+           x="602.85553"
+           dy="0">Glutamatergic synapse</tspan></text>
+      <text
+         id="text22"
+         y="74.761452"
+         x="556.60156"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan18"
+           x="556.60156"
+           dy="0">Oxytocin signaling</tspan><tspan
+           id="tspan20"
+           x="556.60156"
+           dy="14">pathway</tspan></text>
+      <text
+         id="text26"
+         y="81.603943"
+         x="645.87402"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan24"
+           x="645.87402"
+           dy="0">Pancreatic secretion</tspan></text>
+      <text
+         id="text32"
+         y="134.53096"
+         x="559.61328"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan28"
+           x="559.61328"
+           dy="0">Systemic lupus</tspan><tspan
+           id="tspan30"
+           x="559.61328"
+           dy="14">erythematosus</tspan></text>
+      <text
+         id="text36"
+         y="163.51758"
+         x="594.66077"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan34"
+           x="594.66077"
+           dy="0">Cholinergic synapse</tspan></text>
+      <text
+         id="text40"
+         y="147.41998"
+         x="720.06482"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan38"
+           x="720.06482"
+           dy="0">Circadian rhythm</tspan></text>
+      <text
+         id="text44"
+         y="151.1915"
+         x="659.46204"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan42"
+           x="659.46204"
+           dy="0">Long-term potentiation</tspan></text>
+      <text
+         id="text50"
+         y="179.90047"
+         x="632.41766"
+         fill="#000000"
+         font-size="0.7rem"
+         text-anchor="middle"
+         class="dot-label has-pointer"><tspan
+           id="tspan46"
+           x="632.41766"
+           dy="0">Thyroid hormone</tspan><tspan
+           id="tspan48"
+           x="632.41766"
+           dy="14">synthesis</tspan></text>
+      <circle
+         id="circle52"
+         fill="#b9b9da"
+         cy="21.428549"
+         cx="612.57776"
+         r="6.2094536"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle54"
+         fill="#c1c1de"
+         cy="21.428549"
+         cx="629.258"
+         r="5.8579812"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle56"
+         fill="#bfbfdd"
+         cy="21.428549"
+         cx="620.54724"
+         r="5.9541965"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle58"
+         fill="#b8b8d9"
+         cy="93.061462"
+         cx="589.65057"
+         r="6.2479277"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle60"
+         fill="#c3c4df"
+         cy="93.061462"
+         cx="620.3244"
+         r="5.7004399"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle62"
+         fill="#bdbddc"
+         cy="123.79129"
+         cx="592.46387"
+         r="6.044394"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle64"
+         fill="#c1c1de"
+         cy="123.79129"
+         cx="598.8988"
+         r="5.8579812"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle66"
+         fill="#d1d1e6"
+         cy="123.79129"
+         cx="701.18591"
+         r="4.4594316"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle68"
+         fill="#cacae3"
+         cy="123.79129"
+         cx="633.30298"
+         r="5.2479277"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle70"
+         fill="#c9c9e2"
+         cy="136.82407"
+         cx="621.70862"
+         r="5.321928"
+         class="wg-volcano-dot has-pointer" />
+      <circle
+         id="circle72"
+         fill="#c4c5e0"
+         cy="136.82407"
+         cx="600.75903"
+         r="5.643856"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle74"
+         fill="#c1c2de"
+         cy="140.60944"
+         cx="587.50793"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle76"
+         fill="#cbcbe3"
+         cy="140.60944"
+         cx="625.74109"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle78"
+         fill="#bcbcdb"
+         cy="160.35059"
+         cx="568.95398"
+         r="6.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle80"
+         fill="#cecfe5"
+         cy="160.35059"
+         cx="644.38031"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle82"
+         fill="#c5c5e0"
+         cy="182.06654"
+         cx="587.50793"
+         r="5.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle84"
+         fill="#c7c7e1"
+         cy="182.06654"
+         cx="591.21777"
+         r="5.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle86"
+         fill="#bbbbdb"
+         cy="182.06654"
+         cx="558.68439"
+         r="6.129283"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle88"
+         fill="#afaed3"
+         cy="182.06654"
+         cx="540.38092"
+         r="6.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle90"
+         fill="#bebedc"
+         cy="182.06654"
+         cx="563.08997"
+         r="6"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle92"
+         fill="#cacae3"
+         cy="234.85928"
+         cx="591.80743"
+         r="5.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle94"
+         fill="#cacae3"
+         cy="237.09705"
+         cx="587.50793"
+         r="5.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle96"
+         fill="#acaad1"
+         cy="237.09705"
+         cx="527.80542"
+         r="6.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle98"
+         fill="#c2c3df"
+         cy="237.09705"
+         cx="561.52557"
+         r="5.7548876"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle100"
+         fill="#c6c6e1"
+         cy="237.09705"
+         cx="570.32898"
+         r="5.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle102"
+         fill="#c7c7e1"
+         cy="237.09705"
+         cx="573.07861"
+         r="5.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle104"
+         fill="#b8b8d9"
+         cy="237.09705"
+         cx="539.91949"
+         r="6.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle106"
+         fill="#d2d2e7"
+         cy="237.09705"
+         cx="640.26263"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle108"
+         fill="#cccde4"
+         cy="240.19806"
+         cx="592.61993"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle110"
+         fill="#d7d7ea"
+         cy="240.19806"
+         cx="774.27484"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle112"
+         fill="#bbbbdb"
+         cy="240.19806"
+         cx="540.13037"
+         r="6.129283"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle114"
+         fill="#c4c5e0"
+         cy="240.19806"
+         cx="556.56964"
+         r="5.643856"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle116"
+         fill="#d1d1e6"
+         cy="240.19806"
+         cx="618.44623"
+         r="4.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle118"
+         fill="#c8c8e2"
+         cy="240.19806"
+         cx="565.11243"
+         r="5.3923173"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle120"
+         fill="#cfcfe6"
+         cy="240.19806"
+         cx="600.23926"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle122"
+         fill="#cbcce4"
+         cy="240.19806"
+         cx="578.09839"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle124"
+         fill="#c1c2de"
+         cy="240.19806"
+         cx="546.70874"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle126"
+         fill="#c5c5e0"
+         cy="240.19806"
+         cx="555.34241"
+         r="5.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle128"
+         fill="#d8d8ea"
+         cy="246.46518"
+         cx="812.50793"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle130"
+         fill="#b9b9da"
+         cy="248.00461"
+         cx="527.59491"
+         r="6.2094536"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle132"
+         fill="#d1d1e6"
+         cy="248.00461"
+         cx="602.60864"
+         r="4.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle134"
+         fill="#d1d1e6"
+         cy="248.00461"
+         cx="602.60864"
+         r="4.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle136"
+         fill="#d0d0e6"
+         cy="248.00461"
+         cx="594.34204"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle138"
+         fill="#cdcee5"
+         cy="248.00461"
+         cx="576.86414"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle140"
+         fill="#c1c2de"
+         cy="248.00461"
+         cx="539.13007"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle142"
+         fill="#c1c2de"
+         cy="248.00461"
+         cx="539.13007"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle144"
+         fill="#cecfe5"
+         cy="248.00461"
+         cx="581.76257"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle146"
+         fill="#c9c9e2"
+         cy="249.04347"
+         cx="556.56964"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle148"
+         fill="#b7b6d8"
+         cy="250.5703"
+         cx="521.63208"
+         r="6.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle150"
+         fill="#a7a5ce"
+         cy="251.59569"
+         cx="508.31125"
+         r="6.83289"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle152"
+         fill="#d5d5e8"
+         cy="257.96231"
+         cx="637.54626"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle154"
+         fill="#c7c7e1"
+         cy="257.96231"
+         cx="546.01239"
+         r="5.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle156"
+         fill="#cbcbe3"
+         cy="257.96231"
+         cx="557.39038"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle158"
+         fill="#c9c9e2"
+         cy="260.07471"
+         cx="549.27484"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle160"
+         fill="#b5b4d7"
+         cy="260.07471"
+         cx="515.0741"
+         r="6.3923173"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle162"
+         fill="#d3d3e7"
+         cy="260.07471"
+         cx="606.06195"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle164"
+         fill="#cfcfe6"
+         cy="260.07471"
+         cx="575.2572"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle166"
+         fill="#d5d5e8"
+         cy="275.5343"
+         cx="624.29517"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle168"
+         fill="#cfcfe6"
+         cy="277.78055"
+         cx="569.30096"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle170"
+         fill="#cccde4"
+         cy="304.39838"
+         cx="549.27484"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle172"
+         fill="#d2d2e7"
+         cy="304.44769"
+         cx="579.49255"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle174"
+         fill="#cecfe5"
+         cy="305.38593"
+         cx="554.46863"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle176"
+         fill="#c7c7e1"
+         cy="305.38593"
+         cx="530.1748"
+         r="5.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle178"
+         fill="#cfcfe6"
+         cy="305.38593"
+         cx="557.7066"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle180"
+         fill="#cacae3"
+         cy="305.38593"
+         cx="536.25159"
+         r="5.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle182"
+         fill="#cbcbe3"
+         cy="306.84402"
+         cx="537.46967"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle184"
+         fill="#cdcee5"
+         cy="306.84402"
+         cx="546.87921"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle186"
+         fill="#cbcce4"
+         cy="309.52866"
+         cx="538.83643"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle188"
+         fill="#d7d7ea"
+         cy="313.46417"
+         cx="654.909"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle190"
+         fill="#c2c3df"
+         cy="313.46417"
+         cx="515.0741"
+         r="5.7548876"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle192"
+         fill="#c4c5e0"
+         cy="313.46417"
+         cx="517.6814"
+         r="5.643856"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle194"
+         fill="#cecfe5"
+         cy="313.46417"
+         cx="544.16278"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle196"
+         fill="#c1c2de"
+         cy="313.46417"
+         cx="512.76373"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle198"
+         fill="#babada"
+         cy="313.46417"
+         cx="504.43033"
+         r="6.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle200"
+         fill="#cccde4"
+         cy="313.46417"
+         cx="536.02374"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle202"
+         fill="#c9c9e2"
+         cy="313.46417"
+         cx="524.96136"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle204"
+         fill="#c2c3df"
+         cy="313.46417"
+         cx="512.67847"
+         r="5.7548876"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle206"
+         fill="#d5d6e9"
+         cy="313.46417"
+         cx="601.32306"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle208"
+         fill="#c8c8e2"
+         cy="313.46417"
+         cx="521.31677"
+         r="5.3923173"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle210"
+         fill="#c9c9e2"
+         cy="313.98776"
+         cx="521.63208"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle212"
+         fill="#c2c3df"
+         cy="313.98776"
+         cx="510.30042"
+         r="5.7548876"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle214"
+         fill="#c1c2de"
+         cy="313.98776"
+         cx="508.19174"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle216"
+         fill="#d3d3e7"
+         cy="313.98776"
+         cx="561.52557"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle218"
+         fill="#c1c1de"
+         cy="313.98776"
+         cx="506.24075"
+         r="5.8579812"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle220"
+         fill="#d0d0e6"
+         cy="313.98776"
+         cx="543.3186"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle222"
+         fill="#d4d4e8"
+         cy="313.98776"
+         cx="567.8288"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle224"
+         fill="#cbcbe3"
+         cy="313.98776"
+         cx="522.36896"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle226"
+         fill="#cbcbe3"
+         cy="313.98776"
+         cx="522.36896"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle228"
+         fill="#d5d6e9"
+         cy="316.00687"
+         cx="587.50793"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle230"
+         fill="#d2d2e7"
+         cy="316.00687"
+         cx="549.27484"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle232"
+         fill="#b9b9da"
+         cy="316.00687"
+         cx="496.32523"
+         r="6.2094536"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle234"
+         fill="#c1c2de"
+         cy="316.00687"
+         cx="503.68326"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle236"
+         fill="#cecfe5"
+         cy="316.00687"
+         cx="529.29272"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle238"
+         fill="#cecfe5"
+         cy="316.00687"
+         cx="529.29272"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle240"
+         fill="#cacae3"
+         cy="319.20001"
+         cx="515.0741"
+         r="5.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle242"
+         fill="#d5d5e8"
+         cy="324.65543"
+         cx="565.11243"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle244"
+         fill="#c0c0dd"
+         cy="344.51169"
+         cx="494.12451"
+         r="5.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle246"
+         fill="#c6c6e1"
+         cy="344.51169"
+         cx="501.259"
+         r="5.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle248"
+         fill="#cbcbe3"
+         cy="346.85062"
+         cx="507.93964"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle250"
+         fill="#d5d6e9"
+         cy="347.29929"
+         cx="561.52557"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle252"
+         fill="#d4d4e8"
+         cy="347.29929"
+         cx="540.38092"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle254"
+         fill="#d2d2e7"
+         cy="347.29929"
+         cx="528.3252"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle256"
+         fill="#d2d2e7"
+         cy="347.29929"
+         cx="528.3252"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle258"
+         fill="#d2d2e7"
+         cy="347.29929"
+         cx="528.3252"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle260"
+         fill="#cacae3"
+         cy="350.75455"
+         cx="501.6864"
+         r="5.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle262"
+         fill="#bebedc"
+         cy="350.75455"
+         cx="487.84567"
+         r="6"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle264"
+         fill="#d3d3e7"
+         cy="350.75455"
+         cx="529.83148"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle266"
+         fill="#d5d6e9"
+         cy="356.93692"
+         cx="549.27484"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle268"
+         fill="#c7c7e1"
+         cy="361.35901"
+         cx="492.28537"
+         r="5.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle270"
+         fill="#bdbddc"
+         cy="361.35901"
+         cx="483.24283"
+         r="6.044394"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle272"
+         fill="#d3d3e7"
+         cy="361.35901"
+         cx="522.36896"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle274"
+         fill="#b4b3d6"
+         cy="361.67715"
+         cx="478.01743"
+         r="6.4262648"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle276"
+         fill="#a3a1cc"
+         cy="373.60233"
+         cx="470.40134"
+         r="6.9307375"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle278"
+         fill="#cfcfe6"
+         cy="373.60233"
+         cx="500.42773"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle280"
+         fill="#c6c6e1"
+         cy="373.60233"
+         cx="485.42142"
+         r="5.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle282"
+         fill="#d5d5e8"
+         cy="373.60233"
+         cx="524.48364"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle284"
+         fill="#cbcbe3"
+         cy="375.23264"
+         cx="487.43137"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle286"
+         fill="#d3d3e7"
+         cy="375.23264"
+         cx="507.93964"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle288"
+         fill="#cacae3"
+         cy="375.23264"
+         cx="485.69269"
+         r="5.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle290"
+         fill="#cbcce4"
+         cy="375.23264"
+         cx="485.87634"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle292"
+         fill="#cbcbe3"
+         cy="375.23264"
+         cx="484.13583"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle294"
+         fill="#d6d6e9"
+         cy="375.23264"
+         cx="528.3252"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle296"
+         fill="#cfcfe6"
+         cy="375.23264"
+         cx="491.01822"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle298"
+         fill="#bcbcdb"
+         cy="375.23264"
+         cx="472.2067"
+         r="6.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle300"
+         fill="#d3d3e7"
+         cy="375.23264"
+         cx="500.95859"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle302"
+         fill="#cdcee5"
+         cy="375.23264"
+         cx="486.10913"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle304"
+         fill="#cccde4"
+         cy="375.23264"
+         cx="484.13583"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle306"
+         fill="#c1c2de"
+         cy="375.23264"
+         cx="473.76413"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle308"
+         fill="#d1d1e6"
+         cy="375.23264"
+         cx="492.28537"
+         r="4.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle310"
+         fill="#d0d0e6"
+         cy="375.23264"
+         cx="489.09177"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle312"
+         fill="#d5d5e8"
+         cy="375.23264"
+         cx="505.92969"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle314"
+         fill="#d4d4e8"
+         cy="375.23264"
+         cx="499.23654"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle316"
+         fill="#cbcce4"
+         cy="375.23264"
+         cx="478.96957"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle318"
+         fill="#d2d2e7"
+         cy="375.23264"
+         cx="490.09207"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle320"
+         fill="#b1b0d5"
+         cy="375.23264"
+         cx="464.23035"
+         r="6.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle322"
+         fill="#cfcfe6"
+         cy="375.23264"
+         cx="481.87375"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle324"
+         fill="#cfcfe6"
+         cy="375.23264"
+         cx="481.87375"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle326"
+         fill="#cecfe5"
+         cy="375.23264"
+         cx="479.9473"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle328"
+         fill="#cecfe5"
+         cy="375.23264"
+         cx="479.9473"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle330"
+         fill="#c9c9e2"
+         cy="375.23264"
+         cx="472.5415"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle332"
+         fill="#c1c1de"
+         cy="375.23264"
+         cx="467.28226"
+         r="5.8579812"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle334"
+         fill="#d0d0e6"
+         cy="375.23264"
+         cx="479.25446"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle336"
+         fill="#cecfe5"
+         cy="375.23264"
+         cx="475.81213"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle338"
+         fill="#cdcee5"
+         cy="375.23264"
+         cx="474.44537"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle340"
+         fill="#cdcee5"
+         cy="375.23264"
+         cx="474.44537"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle342"
+         fill="#b7b7d8"
+         cy="375.23264"
+         cx="462.90259"
+         r="6.2854023"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle344"
+         fill="#cbcce4"
+         cy="375.23264"
+         cx="472.2067"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle346"
+         fill="#cacae3"
+         cy="375.23264"
+         cx="470.45016"
+         r="5.2479277"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle348"
+         fill="#d6d6e9"
+         cy="375.23264"
+         cx="502.34283"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle350"
+         fill="#d5d6e9"
+         cy="375.23264"
+         cx="494.12451"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle352"
+         fill="#d5d6e9"
+         cy="375.23264"
+         cx="494.12451"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle354"
+         fill="#d5d5e8"
+         cy="375.23264"
+         cx="488.37912"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle356"
+         fill="#d5d5e8"
+         cy="375.23264"
+         cx="488.37912"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle358"
+         fill="#bfbfdd"
+         cy="375.23264"
+         cx="462.94833"
+         r="5.9541965"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle360"
+         fill="#d3d3e7"
+         cy="375.23264"
+         cx="480.87344"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle362"
+         fill="#d3d3e7"
+         cy="375.23264"
+         cx="480.87344"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle364"
+         fill="#c5c5e0"
+         cy="375.23264"
+         cx="465.03583"
+         r="5.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle366"
+         fill="#c9c9e2"
+         cy="375.23264"
+         cx="466.89606"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle368"
+         fill="#d9d9eb"
+         cy="375.23264"
+         cx="549.27484"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle370"
+         fill="#c0c0dd"
+         cy="375.23264"
+         cx="461.34708"
+         r="5.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle372"
+         fill="#c7c7e1"
+         cy="375.23264"
+         cx="463.35394"
+         r="5.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle374"
+         fill="#cbcbe3"
+         cy="375.23264"
+         cx="465.03583"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle376"
+         fill="#cccde4"
+         cy="375.23264"
+         cx="466.1972"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle378"
+         fill="#cccde4"
+         cy="375.23264"
+         cx="466.1972"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle380"
+         fill="#d7d7ea"
+         cy="375.23264"
+         cx="499.23654"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle382"
+         fill="#d0d0e6"
+         cy="375.23264"
+         cx="469.70651"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle384"
+         fill="#d3d3e7"
+         cy="375.23264"
+         cx="474.44537"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle386"
+         fill="#c2c3df"
+         cy="375.23264"
+         cx="459.92383"
+         r="5.7548876"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle388"
+         fill="#cbcce4"
+         cy="375.23264"
+         cx="462.31946"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle390"
+         fill="#cecfe5"
+         cy="375.23264"
+         cx="463.71359"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle392"
+         fill="#d0d0e6"
+         cy="375.23264"
+         cx="465.03583"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle394"
+         fill="#d2d2e7"
+         cy="375.23264"
+         cx="466.89606"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle396"
+         fill="#d4d4e8"
+         cy="375.23264"
+         cx="469.70651"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle398"
+         fill="#d4d4e8"
+         cy="375.23264"
+         cx="469.70651"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle400"
+         fill="#d5d5e8"
+         cy="375.23264"
+         cx="471.72897"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle402"
+         fill="#8e8ac0"
+         cy="375.23264"
+         cx="452.09479"
+         r="7.4093909"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle404"
+         fill="#d6d6e9"
+         cy="375.23264"
+         cx="478.28693"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle406"
+         fill="#c4c5e0"
+         cy="375.23264"
+         cx="455.89139"
+         r="5.643856"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle408"
+         fill="#cdcee5"
+         cy="375.23264"
+         cx="459.51831"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle410"
+         fill="#c6c6e1"
+         cy="375.23264"
+         cx="455.89139"
+         r="5.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle412"
+         fill="#9c99c8"
+         cy="375.23264"
+         cx="451.99451"
+         r="7.1085243"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle414"
+         fill="#d0d0e6"
+         cy="375.23264"
+         cx="460.4314"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle416"
+         fill="#cecfe5"
+         cy="380.49228"
+         cx="455.89139"
+         r="4.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle418"
+         fill="#d7d7ea"
+         cy="384.82745"
+         cx="469.70651"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle420"
+         fill="#b0afd4"
+         cy="384.82745"
+         cx="449.05731"
+         r="6.5545888"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle422"
+         fill="#c9c9e2"
+         cy="384.82745"
+         cx="450.52588"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle424"
+         fill="#c6c6e1"
+         cy="386.76428"
+         cx="448.91034"
+         r="5.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle426"
+         fill="#c6c6e1"
+         cy="387.04147"
+         cx="446.61627"
+         r="5.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle428"
+         fill="#d6d6e9"
+         cy="387.04147"
+         cx="455.89139"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle430"
+         fill="#d6d6e9"
+         cy="387.04147"
+         cx="455.89139"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle432"
+         fill="#bdbddc"
+         cy="387.04147"
+         cx="446.20093"
+         r="6.044394"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle434"
+         fill="#bebedc"
+         cy="387.04147"
+         cx="445.90271"
+         r="6"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle436"
+         fill="#d0d0e6"
+         cy="387.04147"
+         cx="446.9975"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle438"
+         fill="#c1c2de"
+         cy="387.04147"
+         cx="444.50052"
+         r="5.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle440"
+         fill="#d2d2e7"
+         cy="387.04147"
+         cx="445.24759"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle442"
+         fill="#c2c3df"
+         cy="387.04147"
+         cx="444.08621"
+         r="5.7548876"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle444"
+         fill="#cfcfe6"
+         cy="387.04147"
+         cx="443.64062"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle446"
+         fill="#c1c1de"
+         cy="387.04147"
+         cx="443.08835"
+         r="5.8579812"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle448"
+         fill="#c6c6e1"
+         cy="387.04147"
+         cx="442.07626"
+         r="5.523562"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle450"
+         fill="#d6d6e9"
+         cy="387.04147"
+         cx="445.24759"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle452"
+         fill="#d6d6e9"
+         cy="387.04147"
+         cx="445.24759"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle454"
+         fill="#dadaeb"
+         cy="387.04147"
+         cx="515.0741"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle456"
+         fill="#c3c4df"
+         cy="387.04147"
+         cx="441.64304"
+         r="5.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle458"
+         fill="#d5d5e8"
+         cy="387.04147"
+         cx="440.79068"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle460"
+         fill="#d5d5e8"
+         cy="387.04147"
+         cx="440.79068"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle462"
+         fill="#d7d7ea"
+         cy="387.57928"
+         cx="442.64032"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle464"
+         fill="#cdcee5"
+         cy="387.57928"
+         cx="438.34082"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle466"
+         fill="#c8c8e2"
+         cy="387.57928"
+         cx="438.34082"
+         r="5.3923173"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle468"
+         fill="#d1d1e6"
+         cy="387.57928"
+         cx="436.79138"
+         r="4.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle470"
+         fill="#d5d5e8"
+         cy="389.25015"
+         cx="433.49585"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle472"
+         fill="#cdcee5"
+         cy="389.25015"
+         cx="434.94177"
+         r="4.9068904"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle474"
+         fill="#d8d8ea"
+         cy="389.25015"
+         cx="438.34082"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle476"
+         fill="#c3c4df"
+         cy="390.69604"
+         cx="435.72302"
+         r="5.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle478"
+         fill="#d7d7ea"
+         cy="390.69604"
+         cx="429.909"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle480"
+         fill="#d7d7ea"
+         cy="390.69604"
+         cx="429.909"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle482"
+         fill="#d5d5e8"
+         cy="392.43198"
+         cx="426.36136"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle484"
+         fill="#d9d9eb"
+         cy="392.43198"
+         cx="429.909"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle486"
+         fill="#d9d9eb"
+         cy="392.43198"
+         cx="429.909"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle488"
+         fill="#c3c4df"
+         cy="392.43198"
+         cx="431.83545"
+         r="5.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle490"
+         fill="#d4d4e8"
+         cy="392.43198"
+         cx="423.72583"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle492"
+         fill="#d0d0e6"
+         cy="392.43198"
+         cx="425.77383"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle494"
+         fill="#d3d3e7"
+         cy="393.18262"
+         cx="421.69067"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle496"
+         fill="#d1d1e6"
+         cy="393.18262"
+         cx="423.16953"
+         r="4.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle498"
+         fill="#acaad1"
+         cy="393.5239"
+         cx="434.74677"
+         r="6.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle500"
+         fill="#bebedc"
+         cy="394.52444"
+         cx="429.909"
+         r="6"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle502"
+         fill="#cfcfe6"
+         cy="394.52444"
+         cx="420.44461"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle504"
+         fill="#bdbddc"
+         cy="394.52444"
+         cx="429.15323"
+         r="6.044394"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle506"
+         fill="#d5d5e8"
+         cy="394.52444"
+         cx="412.54623"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle508"
+         fill="#d8d8ea"
+         cy="394.52444"
+         cx="405.85309"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle510"
+         fill="#d0d0e6"
+         cy="394.52444"
+         cx="417.65826"
+         r="4.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle512"
+         fill="#d7d7ea"
+         cy="394.52444"
+         cx="405.85309"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle514"
+         fill="#d1d1e6"
+         cy="395.90472"
+         cx="414.39584"
+         r="4.4594316"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle516"
+         fill="#d3d3e7"
+         cy="395.90619"
+         cx="411.04691"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle518"
+         fill="#cbcce4"
+         cy="396.86026"
+         cx="416.95181"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle520"
+         fill="#d7d7ea"
+         cy="396.86026"
+         cx="394.46222"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle522"
+         fill="#d8d8ea"
+         cy="396.86026"
+         cx="390.75241"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle524"
+         fill="#d6d6e9"
+         cy="396.86026"
+         cx="396.70865"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle526"
+         fill="#d2d2e7"
+         cy="396.86026"
+         cx="405.85309"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle528"
+         fill="#d5d5e8"
+         cy="396.86026"
+         cx="399.29517"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle530"
+         fill="#c1c1de"
+         cy="396.86026"
+         cx="420.57327"
+         r="5.8579812"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle532"
+         fill="#d2d2e7"
+         cy="396.86026"
+         cx="401.24866"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle534"
+         fill="#d7d7ea"
+         cy="396.86026"
+         cx="383.45755"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle536"
+         fill="#d7d7ea"
+         cy="396.86026"
+         cx="383.45755"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle538"
+         fill="#d7d7ea"
+         cy="396.86026"
+         cx="383.45755"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle540"
+         fill="#d8d8ea"
+         cy="396.86026"
+         cx="376.32306"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle542"
+         fill="#d8d8ea"
+         cy="396.86026"
+         cx="376.32306"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle544"
+         fill="#d8d8ea"
+         cy="396.86026"
+         cx="376.32306"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle546"
+         fill="#3f007d"
+         cy="397.71552"
+         cx="437.39783"
+         r="8.6366243"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle548"
+         fill="#dadaeb"
+         cy="397.81836"
+         cx="362.50793"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle550"
+         fill="#cbcce4"
+         cy="398.90076"
+         cx="405.85309"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle552"
+         fill="#d4d4e8"
+         cy="399.03165"
+         cx="388.91327"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle554"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="342.8288"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle556"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="342.8288"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle558"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="342.8288"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle560"
+         fill="#cbcce4"
+         cy="399.03165"
+         cx="397.77118"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle562"
+         fill="#d4d4e8"
+         cy="399.03165"
+         cx="378.09204"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle564"
+         fill="#d5d6e9"
+         cy="399.03165"
+         cx="369.34201"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle566"
+         fill="#d5d6e9"
+         cy="399.03165"
+         cx="369.34201"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle568"
+         fill="#d3d3e7"
+         cy="399.03165"
+         cx="381.06192"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle570"
+         fill="#cbcbe3"
+         cy="399.03165"
+         cx="398.21494"
+         r="5.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle572"
+         fill="#d3d3e7"
+         cy="399.03165"
+         cx="376.32306"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle574"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="324.27481"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle576"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="324.27481"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle578"
+         fill="#d6d6e9"
+         cy="399.03165"
+         cx="354.49255"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle580"
+         fill="#c5c5e0"
+         cy="399.03165"
+         cx="400.1077"
+         r="5.5849624"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle582"
+         fill="#c9c9e2"
+         cy="399.03165"
+         cx="394.46222"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle584"
+         fill="#cccde4"
+         cy="399.03165"
+         cx="386.17395"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle586"
+         fill="#cbcce4"
+         cy="399.03165"
+         cx="387.2991"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle588"
+         fill="#cbcce4"
+         cy="399.03165"
+         cx="387.2991"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle590"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="306.72424"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle592"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="306.72424"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle594"
+         fill="#d2d2e7"
+         cy="399.03165"
+         cx="370.72626"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle596"
+         fill="#d3d3e7"
+         cy="399.03165"
+         cx="362.50793"
+         r="4.1699252"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle598"
+         fill="#d4d4e8"
+         cy="399.03165"
+         cx="357.47519"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle600"
+         fill="#d4d4e8"
+         cy="399.03165"
+         cx="357.47519"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle602"
+         fill="#d4d4e8"
+         cy="399.03165"
+         cx="357.47519"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle604"
+         fill="#d8d8ea"
+         cy="399.03165"
+         cx="312.46967"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle606"
+         fill="#dadaeb"
+         cy="399.03165"
+         cx="259.13583"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle608"
+         fill="#d7d7ea"
+         cy="399.03165"
+         cx="324.27481"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle610"
+         fill="#d7d7ea"
+         cy="399.03165"
+         cx="324.27481"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle612"
+         fill="#cbcce4"
+         cy="399.03165"
+         cx="379.66095"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle614"
+         fill="#c9c9e2"
+         cy="399.03165"
+         cx="383.45755"
+         r="5.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle616"
+         fill="#d7d7ea"
+         cy="399.03165"
+         cx="315.38095"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle618"
+         fill="#c8c8e2"
+         cy="399.03165"
+         cx="382.42871"
+         r="5.3923173"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle620"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="274.23654"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle622"
+         fill="#cbcce4"
+         cy="399.03165"
+         cx="374.6669"
+         r="5.0874629"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle624"
+         fill="#d7d7ea"
+         cy="399.03165"
+         cx="306.72424"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle626"
+         fill="#d5d6e9"
+         cy="399.03165"
+         cx="324.27481"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle628"
+         fill="#d5d5e8"
+         cy="399.03165"
+         cx="329.46863"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle630"
+         fill="#d8d8ea"
+         cy="399.03165"
+         cx="279.43033"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle632"
+         fill="#d6d6e9"
+         cy="399.03165"
+         cx="310.15927"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle634"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="244.70651"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle636"
+         fill="#d9d9eb"
+         cy="399.03165"
+         cx="244.70651"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle638"
+         fill="#d7d7ea"
+         cy="399.03165"
+         cx="290.07413"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle640"
+         fill="#d4d4e8"
+         cy="399.03165"
+         cx="328.81485"
+         r="4"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle642"
+         fill="#d8d8ea"
+         cy="399.03165"
+         cx="269.12451"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle644"
+         fill="#d5d6e9"
+         cy="399.03165"
+         cx="312.46967"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle646"
+         fill="#c8c8e2"
+         cy="399.03165"
+         cx="370.33017"
+         r="5.3923173"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle648"
+         fill="#cfcfe6"
+         cy="399.90652"
+         cx="347.26541"
+         r="4.7004399"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle650"
+         fill="#d6d6e9"
+         cy="399.90652"
+         cx="290.07413"
+         r="3.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle652"
+         fill="#dadaeb"
+         cy="399.90652"
+         cx="158.45757"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle654"
+         fill="#dadaeb"
+         cy="399.90652"
+         cx="158.45757"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle656"
+         fill="#cccde4"
+         cy="400"
+         cx="350.0694"
+         r="5"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle658"
+         fill="#d8d8ea"
+         cy="400"
+         cx="240.03583"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle660"
+         fill="#d8d8ea"
+         cy="400"
+         cx="230.89139"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle662"
+         fill="#d5d5e8"
+         cy="400"
+         cx="290.07413"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle664"
+         fill="#d7d7ea"
+         cy="400"
+         cx="237.72545"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle666"
+         fill="#d9d9eb"
+         cy="400"
+         cx="169.46222"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle668"
+         fill="#d2d2e7"
+         cy="400"
+         cx="303.3252"
+         r="4.321928"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle670"
+         fill="#d5d5e8"
+         cy="400"
+         cx="276.45227"
+         r="3.8073549"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle672"
+         fill="#d5d6e9"
+         cy="400"
+         cx="259.13583"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle674"
+         fill="#dadaeb"
+         cy="400"
+         cx="65.074127"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle676"
+         fill="#d8d8ea"
+         cy="400"
+         cx="188.67531"
+         r="2.5849626"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle678"
+         fill="#d9d9eb"
+         cy="400"
+         cx="137.50795"
+         r="2"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle680"
+         fill="#bebedc"
+         cy="400"
+         cx="348.85135"
+         r="6"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle682"
+         fill="#d7d7ea"
+         cy="400"
+         cx="137.50795"
+         r="3"
+         class="wg-volcano-dot" />
+      <circle
+         id="circle684"
+         fill="#d5d6e9"
+         cy="400"
+         cx="158.45757"
+         r="3.5849626"
+         class="wg-volcano-dot" />
+    </g>
+    <g
+       id="g746"
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="none"
+       transform="translate(0,400)"
+       class="x-axis">
+      <path
+         id="path688"
+         d="M 0.5,6 V 0.5 h 900 V 6"
+         stroke="currentColor"
+         class="domain" />
+      <g
+         id="g694"
+         transform="translate(0.5)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line690"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text692"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">-2.0</text>
+      </g>
+      <g
+         id="g700"
+         transform="translate(113)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line696"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text698"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">-1.5</text>
+      </g>
+      <g
+         id="g706"
+         transform="translate(225.5)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line702"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text704"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">-1.0</text>
+      </g>
+      <g
+         id="g712"
+         transform="translate(338)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line708"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text710"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">-0.5</text>
+      </g>
+      <g
+         id="g718"
+         transform="translate(450.5)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line714"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text716"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">0.0</text>
+      </g>
+      <g
+         id="g724"
+         transform="translate(563)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line720"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text722"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">0.5</text>
+      </g>
+      <g
+         id="g730"
+         transform="translate(675.5)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line726"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text728"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">1.0</text>
+      </g>
+      <g
+         id="g736"
+         transform="translate(788)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line732"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text734"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">1.5</text>
+      </g>
+      <g
+         id="g742"
+         transform="translate(900.5)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line738"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text740"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">2.0</text>
+      </g>
+      <text
+         id="text744"
+         style="text-anchor:end"
+         fill="#000000"
+         y="-6"
+         x="900"
+         class="x-label">log2 of enrichment ratio</text>
+    </g>
+    <g
+       id="g800"
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="none"
+       transform="translate(450)"
+       class="y-axis">
+      <path
+         id="path748"
+         d="M -6,400.5 H 0.5 V 0.5 H -6"
+         stroke="currentColor"
+         class="domain" />
+      <g
+         id="g754"
+         transform="translate(0,350.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line750"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text752"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.1</text>
+      </g>
+      <g
+         id="g760"
+         transform="translate(0,300.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line756"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text758"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.2</text>
+      </g>
+      <g
+         id="g766"
+         transform="translate(0,250.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line762"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text764"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.3</text>
+      </g>
+      <g
+         id="g772"
+         transform="translate(0,200.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line768"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text770"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.4</text>
+      </g>
+      <g
+         id="g778"
+         transform="translate(0,150.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line774"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text776"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.5</text>
+      </g>
+      <g
+         id="g784"
+         transform="translate(0,100.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line780"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text782"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.6</text>
+      </g>
+      <g
+         id="g790"
+         transform="translate(0,50.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line786"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text788"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.7</text>
+      </g>
+      <g
+         id="g796"
+         transform="translate(0,0.5)"
+         opacity="1"
+         class="tick">
+        <line
+           y2="0"
+           y1="0"
+           x1="0"
+           id="line792"
+           x2="-6"
+           stroke="currentColor" />
+        <text
+           id="text794"
+           dy="0.31999999em"
+           x="-9"
+           fill="currentColor">0.8</text>
+      </g>
+      <text
+         id="text798"
+         style="text-anchor:end"
+         fill="#000000"
+         dy="0.70999998em"
+         y="6"
+         transform="rotate(-90)"
+         class="y-label">-Log10 of FDR</text>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.65953844,0,0,0.51290133,548.01428,44.609665)"
+     id="g845"
+     class="legend">
+    <defs
+       id="defs819">
+      <linearGradient
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(2.236068,0.4472136)"
+         spreadMethod="pad"
+         y2="44.721359"
+         x2="44.721359"
+         y1="44.721359"
+         x1="0"
+         id="gradient">
+        <stop
+           id="stop804"
+           stop-opacity="1"
+           stop-color="#dadaeb"
+           offset="0%" />
+        <stop
+           id="stop806"
+           stop-opacity="1"
+           stop-color="#bcbddc"
+           offset="16.67%" />
+        <stop
+           id="stop808"
+           stop-opacity="1"
+           stop-color="#9e9ac8"
+           offset="33.33%" />
+        <stop
+           id="stop810"
+           stop-opacity="1"
+           stop-color="#807dba"
+           offset="50%" />
+        <stop
+           id="stop812"
+           stop-opacity="1"
+           stop-color="#6a51a3"
+           offset="66.67%" />
+        <stop
+           id="stop814"
+           stop-opacity="1"
+           stop-color="#54278f"
+           offset="83.33%" />
+        <stop
+           id="stop816"
+           stop-opacity="1"
+           stop-color="#3f007d"
+           offset="100%" />
+      </linearGradient>
+    </defs>
+    <rect
+       y="0"
+       x="0"
+       id="rect821"
+       style="fill:url(#gradient)"
+       transform="translate(10)"
+       height="20"
+       width="100" />
+    <g
+       id="g843"
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="none"
+       transform="translate(10,20)"
+       class="y-axis">
+      <path
+         id="path823"
+         d="M 0.5,6 V 0.5 h 100 V 6"
+         stroke="currentColor"
+         class="domain" />
+      <g
+         id="g829"
+         transform="translate(25.247475)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line825"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text827"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">50</text>
+      </g>
+      <g
+         id="g835"
+         transform="translate(50.5)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line831"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text833"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">100</text>
+      </g>
+      <g
+         id="g841"
+         transform="translate(75.752525)"
+         opacity="1"
+         class="tick">
+        <line
+           x2="0"
+           y1="0"
+           x1="0"
+           id="line837"
+           y2="6"
+           stroke="currentColor" />
+        <text
+           id="text839"
+           dy="0.70999998em"
+           y="9"
+           fill="currentColor">150</text>
+      </g>
+    </g>
+  </g>
+</svg>
